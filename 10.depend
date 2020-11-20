@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605727522 source:f:\inform\task 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1605899077 source:c:\users\04003\downloads\task10-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
